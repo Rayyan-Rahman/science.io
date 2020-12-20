@@ -1,0 +1,14 @@
+.big-bang, .elephant-toothpase {
+    font-family: century gothic, comic sans ms, sans-serif, sans;
+    font-weight: bold;
+    text-align: center;
+}
+.big-bang-desc, .elephant-toothpase-desc, .button1, .button2 {
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+.button1, .button2 {
+    width: 200;
+    height: 300;
+}
